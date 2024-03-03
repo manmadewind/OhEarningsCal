@@ -1,8 +1,18 @@
 [
     {
+        "symbol": "TESLA",
+        "companyName": "Tesla",
+        "industry": "汽车"
+    },
+    {
         "symbol": "TSLA",
         "companyName": "Tesla",
         "industry": "汽车"
+    },
+    {
+        "symbol": "AAPL",
+        "companyName": "APPLE",
+        "industry": "手机"
     },
     {
         "symbol": "JMIA",
@@ -73,10 +83,5 @@
         "symbol": "XPEV",
         "companyName": "小鹏汽车",
         "industry": "汽车"
-    },
-    {
-        "symbol": "AI",
-        "companyName": "C3.ai",
-        "industry": "软件"
     }
 ]
