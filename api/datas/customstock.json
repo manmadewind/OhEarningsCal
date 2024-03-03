@@ -1,5 +1,15 @@
 [
     {
+        "symbol": "TSLA",
+        "companyName": "Tesla",
+        "industry": "汽车"
+    },
+    {
+        "symbol": "JMIA",
+        "companyName": "Jumia",
+        "industry": "电子商务"
+    },
+    {
         "symbol": "PDD",
         "companyName": "拼多多",
         "industry": "电子商务"
@@ -8,11 +18,6 @@
         "symbol": "COIN",
         "companyName": "Coinbase",
         "industry": "金融科技"
-    },
-    {
-        "symbol": "SONY",
-        "companyName": "索尼",
-        "industry": "消费电子"
     },
     {
         "symbol": "SHOP",
@@ -30,19 +35,9 @@
         "industry": "电子商务"
     },
     {
-        "symbol": "NVO",
-        "companyName": "Novo Nordisk",
-        "industry": "制药"
-    },
-    {
         "symbol": "SMCI",
         "companyName": "Super Micro Computer",
         "industry": "计算机硬件"
-    },
-    {
-        "symbol": "U",
-        "companyName": "Unity",
-        "industry": "软件"
     },
     {
         "symbol": "TSM",
@@ -53,21 +48,6 @@
         "symbol": "JD",
         "companyName": "京东",
         "industry": "电子商务"
-    },
-    {
-        "symbol": "BZ",
-        "companyName": "BOSS 直聘",
-        "industry": "人力资源"
-    },
-    {
-        "symbol": "NET",
-        "companyName": "Cloudflare",
-        "industry": "云计算"
-    },
-    {
-        "symbol": "SQ",
-        "companyName": "Square",
-        "industry": "金融科技"
     },
     {
         "symbol": "NIO",
