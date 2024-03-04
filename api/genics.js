@@ -19,8 +19,8 @@ async function generateEarningsICSCalendar(date,list,filename) {
                 status: 'CONFIRMED',
                 busyStatus: 'FREE',
                 alarms: [
-                    { action: 'display', description: 'Reminder', trigger: { hours: 4*24, minutes: 0, before: true } },
-                    { action: 'audio'  , description: 'Reminder', trigger: { hours: 2*24, minutes: 0, before: true } }
+                    { action: 'display', description: 'Reminder', trigger: { hours: 4*24-12, minutes: 0, before: true } },
+                    { action: 'audio'  , description: 'Reminder', trigger: { hours: 2*24-12, minutes: 0, before: true } }
                 ]
             };
         });
