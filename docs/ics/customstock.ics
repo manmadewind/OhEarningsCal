@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:RjiH95FvxSivol1mSY8xq
+UID:tWTW7fAxIVXATWuxrwnk7
 SUMMARY:Shopify 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240213
 DESCRIPTION:财务季度：Dec/2023。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.22，当前市
 	值: $96\,357\,941\,365。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP 
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tagHF5WuBGdx8VoYv_aMB
+UID:Kxc6p3jGLZv_02oI9jf9x
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240215
 DESCRIPTION:财务季度：Dec/2023。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: ($0.09)，
 	当前市值: $39\,347\,911\,171。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CO
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FNULU1T0_V07hpofwtGQr
+UID:Dhqf_G-wZMJIRM_1kZn1H
 SUMMARY:Jumia 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240215
 DESCRIPTION:财务季度：Dec/2023。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $421
 	\,582\,213。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VHCpZPxAN2N2alG89hg7C
+UID:RxZHaTLL3qNSL-_X5yUAg
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240226
 DESCRIPTION:财务季度：Dec/2023。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $42\,640\
 	,376\,405。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-nSwzrr7973odEAGMEHlu
+UID:vhyv8s5hPGu8QsmjU98Ld
 SUMMARY:百度 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240228
 DESCRIPTION:财务季度：Dec/2023。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.95，当前市值: $36
 	\,114\,404\,605。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YsvcbrtbQ3tklC6RAxcOZ
+UID:g7sKNa2oD2N0TtQX2gq5k
 SUMMARY:SHOPEE 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240304
 DESCRIPTION:财务季度：Dec/2023。\n代码：SE，公司：SHOPEE，行业: 通讯服务。\n预计每股收益: ($0.29)，当前市值
 	: $26\,391\,180\,686。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fEUVHqB6IJVOmjoSO8gOu
+UID:uXpRyGgA6wtXUEhyOuHc8
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240305
 DESCRIPTION:财务季度：Dec/2023。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.51)，当前市值: $9\
 	,936\,430\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Iz4pAHlpYPfrA4PRFDOxX
+UID:HLVIczqZ10kWHYcHAEXzX
 SUMMARY:京东 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240306
 DESCRIPTION:财务季度：Dec/2023。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.56，当前市值: $39\
 	,146\,275\,788。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -174,9 +174,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:P5wTRYG2tQC3NDvPSQttB
+UID:A1R-MhEqzICGFSsAkeRGM
 SUMMARY:bilibili 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240307
 DESCRIPTION:财务季度：Dec/2023。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: ($0.25)，
 	当前市值: $4\,182\,543\,601。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIL
@@ -195,9 +195,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:apwfd_UoadcpEENTNn2jx
+UID:UxbluUHTOunLV0eh9zChg
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240318
 DESCRIPTION:财务季度：Dec/2023。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.44，当前市值: $1
 	53\,639\,645\,939。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -216,12 +216,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vy8UAZy1gSu-UPxeH8WX9
+UID:ARch1t8mVLGmX4jUzYvFN
 SUMMARY:小鹏汽车 盘前发布财报
-DTSTAMP:20240313T043541Z
+DTSTAMP:20240313T163544Z
 DTSTART;VALUE=DATE:20240319
-DESCRIPTION:财务季度：Dec/2023。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $4\,109
-	\,292\,768。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
+DESCRIPTION:财务季度：Dec/2023。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $4\,454
+	\,611\,488。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
