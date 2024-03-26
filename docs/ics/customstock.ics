@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:L3d_cPZ0W_1CYYJtdQR_Q
+UID:3iavJP1NwQCStn5dLRNny
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240226
 DESCRIPTION:财务季度：Dec/2023。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $42\,640\
 	,376\,405。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NopgI--3t5S15d-VrH1w1
+UID:sTgomIjLJGJ8kNtczEfDF
 SUMMARY:百度 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240228
 DESCRIPTION:财务季度：Dec/2023。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.95，当前市值: $36
 	\,114\,404\,605。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0dT7Dr9skKoJccRrQKWWf
+UID:XLcOmd9DSE0t-4KcLxVDj
 SUMMARY:SHOPEE 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240304
 DESCRIPTION:财务季度：Dec/2023。\n代码：SE，公司：SHOPEE，行业: 通讯服务。\n预计每股收益: ($0.29)，当前市值
 	: $26\,391\,180\,686。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gToNJSwUfXmvkl3VoBZGC
+UID:3lZg6UcyzMNM2CzvVjARP
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240305
 DESCRIPTION:财务季度：Dec/2023。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.51)，当前市值: $9\
 	,936\,430\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fszpXhsC6JAZOSyFj6cmn
+UID:xNKW5HT54RVlV3841_2En
 SUMMARY:京东 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240306
 DESCRIPTION:财务季度：Dec/2023。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.56，当前市值: $39\
 	,146\,275\,788。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Pl_jwvk5yni7hz55XNfwU
+UID:4rIAIZdmUMh34CfvmC3Jh
 SUMMARY:bilibili 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240307
 DESCRIPTION:财务季度：Dec/2023。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: ($0.25)，
 	当前市值: $4\,182\,543\,601。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIL
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ziC3Fu01gp2okMVco81Ph
+UID:pdmFfZwppRfzArUrSLeFT
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240319
 DESCRIPTION:财务季度：Dec/2023。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $4\,269
 	\,002\,676。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UgaBZyYNErgFjRP9XMtFJ
+UID:pV5sXrPfZ6e4k52YF4wwW
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240320
 DESCRIPTION:财务季度：Dec/2023。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.42，当前市值: $1
 	81\,486\,745\,945。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -174,12 +174,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_0zF81AO5klRTSCAWNhmj
+UID:zjixXm5NyfTLyNiIgfTyZ
 SUMMARY:Tesla 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240417
-DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.50，当前市值: $
-	544\,057\,746\,594。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.48，当前市值: $
+	549\,790\,369\,341。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -195,12 +195,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UMN5A0Dulc0DpwN7G5gRB
+UID:6fu1gIHL4S9VcLTE2jMLh
 SUMMARY:台积电 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240418
-DESCRIPTION:财务季度：Mar/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.30，当前市值: $72
-	8\,851\,133\,969。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+DESCRIPTION:财务季度：Mar/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.29，当前市值: $72
+	7\,243\,450\,381。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
 	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -216,12 +216,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:autFBSj-1XyQ4Acrru-dh
+UID:ztnK3YQrP62yOROE7D4LH
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
-	: $1.49，当前市值: $1\,886\,956\,410\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
+	: $1.49，当前市值: $1\,879\,247\,950\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
 	//?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -237,12 +237,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0uBWdKmbN3ba8DFtK7Rtt
+UID:v_-AoPvP346j5rqG0zttQ
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20240326T043506Z
+DTSTAMP:20240326T163608Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
-	益: $1.49，当前市值: $1\,874\,523\,410\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	益: $1.49，当前市值: $1\,865\,820\,310\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/stock/GOOGL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
