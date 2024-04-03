@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Bj4Q8U0hNOeaa0JgcwW-U
+UID:P1KmVR8dhxdpkgAtdA2J-
 SUMMARY:SHOPEE 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240304
 DESCRIPTION:财务季度：Dec/2023。\n代码：SE，公司：SHOPEE，行业: 通讯服务。\n预计每股收益: ($0.29)，当前市值
 	: $26\,391\,180\,686。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:S48l4TuIk_6SOKBveRx_6
+UID:C1agWir9jGBv1fmZjcuei
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240305
 DESCRIPTION:财务季度：Dec/2023。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.51)，当前市值: $9\
 	,936\,430\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9EYTb2gvrGFWwhvOyrq3q
+UID:tDhIozrB50CDKnA74qq-E
 SUMMARY:京东 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240306
 DESCRIPTION:财务季度：Dec/2023。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.56，当前市值: $39\
 	,146\,275\,788。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:khtWio0c-3fp_mS5tLDmm
+UID:zM_kYNroqGrTCfknR0_mC
 SUMMARY:bilibili 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240307
 DESCRIPTION:财务季度：Dec/2023。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: ($0.25)，
 	当前市值: $4\,182\,543\,601。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIL
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9WoctrduhT3HuAE1Q6WTp
+UID:Z0EBiLmqsHaNiCFp1RFpF
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240319
 DESCRIPTION:财务季度：Dec/2023。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $4\,269
 	\,002\,676。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_l-zPrWnJJ3EkSSSueSnN
+UID:QIw_61AFXcmQ_2kju2z9S
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240320
 DESCRIPTION:财务季度：Dec/2023。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.42，当前市值: $1
 	81\,486\,745\,945。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -132,30 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZPn0QOTYdGmnFFfyXyuxO
-SUMMARY:Tesla 发布财报
-DTSTAMP:20240403T043526Z
-DTSTART;VALUE=DATE:20240417
-DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.46，当前市值: $
-	559\,854\,307\,052。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
-	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT84H
-END:VALARM
-BEGIN:VALARM
-ACTION:AUDIO
-DESCRIPTION:Reminder
-TRIGGER:-PT36H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:KVeonlSVrPpjxHY0xMzvh
+UID:H51DG9n7DIH82Xys23Ab4
 SUMMARY:台积电 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240418
 DESCRIPTION:财务季度：Mar/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.29，当前市值: $73
 	3\,777\,906\,257。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
@@ -174,12 +153,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:85hX7kQAGIsCGzT8IOdLd
+UID:Riu0lhNDVsB8AVWtXSQnJ
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
-	: $1.49，当前市值: $1\,945\,764\,500\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
+	: $1.49，当前市值: $1\,937\,931\,710\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
 	//?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -195,12 +174,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d3fy6v16WhsdxPifUYRoU
+UID:SC55UNOlHXWdi94wQ1yxZ
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
-	益: $1.49，当前市值: $1\,933\,207\,170\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	益: $1.49，当前市值: $1\,921\,644\,480\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/stock/GOOGL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -216,9 +195,30 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fH8Hty3fB0bo4fMWaK6qk
+UID:PvE_jtsHY3tVrVicjkHiQ
+SUMMARY:Tesla 盘后发布财报
+DTSTAMP:20240403T163653Z
+DTSTART;VALUE=DATE:20240423
+DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.46，当前市值: $
+	530\,681\,626\,851。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT84H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT36H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CmZsfi5dVZ7_9QoxTN0YU
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240425
 DESCRIPTION:财务季度：Mar/2024。\n代码：AMZN，公司：亚马逊，行业: 非必需消费品。\n预计每股收益: $0.81，当前市值:
 	 $1\,879\,804\,392\,232。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
@@ -237,12 +237,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Y8hM6fHaYPZ_UtiyXX_CA
+UID:XYXXpdXNSgiMOekxvBx6J
 SUMMARY:APPLE 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：AAPL，公司：APPLE，行业: 手机。\n预计每股收益: $1.50，当前市值: $
-	2\,625\,583\,026\,430。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
+	2\,607\,207\,188\,040。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
 	\n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -258,12 +258,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M6WXyQaiZE99IJVd_nnuq
+UID:IZxC8NepTvKilFwGtanvw
 SUMMARY:Shopify 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.08，当前市
-	值: $100\,416\,199\,325。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
+	值: $100\,326\,301\,205。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
 	 \n在富途查看：https://www.futunn.com/hk/stock/SHOP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -279,12 +279,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:83YIrZ_OgV_HzhvUYpBp1
+UID:zU33RJmfOKZw9pH_iDikC
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20240403T043526Z
+DTSTAMP:20240403T163653Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.54，当前
-	市值: $61\,079\,994\,369。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
+	市值: $59\,560\,929\,022。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
 	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
