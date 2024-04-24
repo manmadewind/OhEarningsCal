@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:PXscQsSHVnRXkQsgxgGD5
+UID:EQCV1okr003wNd3FS32Od
 SUMMARY:台积电 发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240418
 DESCRIPTION:财务季度：Mar/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.29，当前市值: $68
 	5\,962\,284\,688。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qtDqZBUNXXnWzA5xVgxzo
+UID:Cjx0YWewIKnNUy60VX1Av
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.35，当前市值: $
 	468\,323\,430\,525。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -48,12 +48,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hytA-mC22x5o7NYl3jKg-
+UID:IMvlKtlf1zSslFF-JofN9
 SUMMARY:Alphabet (Class C) 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240425
 DESCRIPTION:财务季度：Mar/2024。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
-	: $1.49，当前市值: $1\,963\,792\,350\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
+	: $1.49，当前市值: $1\,936\,066\,760\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
 	//?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -69,12 +69,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gNbGu1vhEsnILHH2O60i4
+UID:kGIyp_Qw5jBLPS-fqLyd9
 SUMMARY:Alphabet (Class A) 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240425
 DESCRIPTION:财务季度：Mar/2024。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
-	益: $1.49，当前市值: $1\,943\,029\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	益: $1.49，当前市值: $1\,915\,800\,970\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/stock/GOOGL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -90,12 +90,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5xmLqDm7I3gk9KJ3FsJcX
+UID:1NvB2ANGILNfh-H8eSnPY
 SUMMARY:亚马逊 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240430
 DESCRIPTION:财务季度：Mar/2024。\n代码：AMZN，公司：亚马逊，行业: 非必需消费品。\n预计每股收益: $0.81，当前市值:
-	 $1\,840\,955\,586\,203。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
+	 $1\,813\,948\,394\,847。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
 	N \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yxYxw_4y2Y1I6Bx_FV6VU
+UID:6DQkIkA26DuT0i1VNrTKv
 SUMMARY:超微半导体 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240430
 DESCRIPTION:财务季度：Mar/2024。\n代码：AMD，公司：超微半导体，行业: 信息技术。\n预计每股收益: $0.41，当前市值: 
-	$240\,170\,556\,046。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
+	$236\,938\,982\,364。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
 	富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,12 +132,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:L8dGqP3uAv1hPLa8XRSBL
+UID:E-kQCa_-WvbqVNrdCr1AD
 SUMMARY:Super Micro Computer 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240430
 DESCRIPTION:财务季度：Mar/2024。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $5.67，当前市值: $40\,105\,316\,276。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $5.67，当前市值: $39\,916\,820\,954。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9uTqvbl8zQPcL7Q3X2B7B
+UID:TDDJ4dKX7YW3q-YjFUys2
 SUMMARY:APPLE 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：AAPL，公司：APPLE，行业: 手机。\n预计每股收益: $1.50，当前市值: $
 	2\,560\,881\,545\,040。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
@@ -174,9 +174,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2eFnzR3bW4RNECkSnGIzj
+UID:msFFEzvWlNoEw3oQtJbyZ
 SUMMARY:Coinbase 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.89，当前
 	市值: $54\,720\,271\,025。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -195,12 +195,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:o4L1X5B9g4cvqvv6aQJbf
+UID:stpF6kYMnZUOYaArRVdu2
 SUMMARY:Jumia 盘前发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240507
-DESCRIPTION:财务季度：Mar/2024。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $420
-	\,736\,921。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
+DESCRIPTION:财务季度：Mar/2024。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $398
+	\,486\,411。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/JMIA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -216,9 +216,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BwMAeBOf0l1JvpA7mNw95
+UID:1miSBmRilyy3Cicc1s7Ua
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240508
 DESCRIPTION:财务季度：Mar/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $95
 	\,724\,095\,559。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查看
@@ -237,9 +237,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wQ1Ar1XS9lfXEyqcipXqn
+UID:rqLD3HvwllT_L2U5OO4Zc
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240508
 DESCRIPTION:财务季度：Mar/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.08，当前市
 	值: $90\,604\,461\,726。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP 
@@ -258,9 +258,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oW4MB7DJRbpvTTSkTMoHt
+UID:rko4IFClKK5mTslK4uSFe
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240508
 DESCRIPTION:财务季度：Mar/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $26\,083\
 	,514\,210。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -279,9 +279,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5cu7YRcm1CO_wK9b6OJE5
+UID:tnLSAieWRNd5bxn6IZRsd
 SUMMARY:京东 发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240509
 DESCRIPTION:财务季度：Mar/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.56，当前市值: $42\
 	,415\,013\,389。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -300,12 +300,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CQhH27lKyebjB-v-bMa9G
+UID:TLJA9QefT3wfQP98vnG5U
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240516
 DESCRIPTION:财务季度：Mar/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.87，当前市值: 
-	$181\,347\,366\,485。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$177\,216\,505\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -321,12 +321,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MZ04IEmoxXHtyYmF55yPm
+UID:1yi4ONYxE_uwwvXh80M67
 SUMMARY:百度 盘前发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240516
-DESCRIPTION:财务季度：Mar/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.90，当前市值: $34
-	\,097\,101\,467。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+DESCRIPTION:财务季度：Mar/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.90，当前市值: $33
+	\,329\,180\,321。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -342,12 +342,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t1K-XrV2HorsPFtiu0KYp
+UID:MC3X3Gql9QOAcl-4RLP7v
 SUMMARY:SHOPEE 发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240521
 DESCRIPTION:财务季度：Mar/2024。\n代码：SE，公司：SHOPEE，行业: 通讯服务。\n预计每股收益: $0.08，当前市值: 
-	$33\,563\,617\,980。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在富途
+	$31\,095\,621\,840。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在富途
 	查看：https://www.futunn.com/hk/stock/SE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -363,12 +363,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7mQ0Yc0Yep3cMQ5-EkG7S
+UID:qTuot1ixVLaQ9RVGT6RAL
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240423T163618Z
+DTSTAMP:20240424T043513Z
 DTSTART;VALUE=DATE:20240522
-DESCRIPTION:财务季度：Mar/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $6\,580
-	\,175\,409。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
+DESCRIPTION:财务季度：Mar/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $6\,533
+	\,039\,482。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
