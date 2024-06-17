@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:yNVlR89uXZ8gJbGrlimjM
+UID:IVfAPnXQVMrsTSCGo_ege
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240616T163656Z
+DTSTAMP:20240617T043655Z
 DTSTART;VALUE=DATE:20240520
 DESCRIPTION:财务季度：Mar/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $22\,732\
 	,761\,682。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EPC0BxIUf729OeMBFFbQ-
+UID:noZq16EwjHWVwzED9Lnzp
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240616T163656Z
+DTSTAMP:20240617T043655Z
 DTSTART;VALUE=DATE:20240521
 DESCRIPTION:财务季度：Mar/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $8\,267
 	\,641\,595。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iovMLX7yZDsCCyQsp_5bw
+UID:X1hMtkGqwKxuH2H5MM9r2
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240616T163656Z
+DTSTAMP:20240617T043655Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Mar/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.44，当前市值: $2
 	00\,120\,696\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DsCGzeRj7l8d1cBK9La2A
+UID:SiIJJ0a0Ay0bUD7OBz1X9
 SUMMARY:bilibili 发布财报
-DTSTAMP:20240616T163656Z
+DTSTAMP:20240617T043655Z
 DTSTART;VALUE=DATE:20240523
 DESCRIPTION:财务季度：Mar/2024。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: ($0.26)，
 	当前市值: $5\,663\,034\,789。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIL
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Wjq4JKe9Hn3eJdfm9E8Hc
+UID:nUZUpP2ZWDU6OS4uOyAaP
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240616T163656Z
+DTSTAMP:20240617T043655Z
 DTSTART;VALUE=DATE:20240606
 DESCRIPTION:财务季度：Mar/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.31)，当前市值: $10
 	\,215\,568\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
