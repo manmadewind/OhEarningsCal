@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:YmIc4ov4D1rkhSmCiQqj4
+UID:4TVFLBHLOToaE2xfUnVDG
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20240820
 DESCRIPTION:财务季度：Jun/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $6\,382
 	\,204\,515。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Se56RBOj9O6VXE2himX8u
+UID:iKfIQkq5HnTOzq0_e2MIH
 SUMMARY:百度 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20240822
 DESCRIPTION:财务季度：Jun/2024。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $2.24，当前市值: $31
 	\,467\,234\,529。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wAqna90tYLab7lM4OYdkR
+UID:s_EAVLunflqDX0uX8SIaG
 SUMMARY:bilibili 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20240822
 DESCRIPTION:财务季度：Jun/2024。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: ($0.19)，
 	当前市值: $5\,778\,438\,700。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIL
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZLotY6XAmX41c4aypreJ2
+UID:Q4x7GNPuHcTp_aoBCJP6m
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20240826
 DESCRIPTION:财务季度：Jun/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.67，当前市值: $1
 	92\,443\,326\,717。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qh9CesbXcKtQkbdg23XQH
+UID:CxO_o91YeHPU-1k6XfX7k
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20240828
 DESCRIPTION:财务季度：Jun/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $18\,638\
 	,560\,937。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:B0bK9uNGxqOj5rQo4gE8z
+UID:W25rPuJk4xLcI2cN6CJ0r
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20240905
 DESCRIPTION:财务季度：Jun/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.46)，当前市值: $8\
 	,849\,596\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aK_9bEZDbPK28ILIUglK7
+UID:HR_PtIzN-z-VrM13oowve
 SUMMARY:Tesla 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20241016
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.46，当前市值: $
 	724\,480\,553\,313。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -153,12 +153,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Mo6M1PpmrJV9jszeMAE0y
+UID:0vK21GbMwq_z13x6-ncvU
 SUMMARY:台积电 发布财报
-DTSTAMP:20240918T043741Z
+DTSTAMP:20240918T163916Z
 DTSTART;VALUE=DATE:20241017
-DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $89
-	4\,656\,449\,155。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $86
+	7\,946\,416\,035。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
 	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
