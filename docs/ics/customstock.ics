@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Q3ZqPYGHfMEJwe263vwo8
+UID:mf_a_Px0nBeMh8HoPnQ8a
 SUMMARY:台积电 发布财报
-DTSTAMP:20250101T043737Z
+DTSTAMP:20250101T163822Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
-	,045\,736\,694\,742。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,039\,305\,541\,137。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3GJD6hD8RyThlflB7bZZy
+UID:KLEVTjudVoytjgkWXyVVl
 SUMMARY:Tesla 发布财报
-DTSTAMP:20250101T043737Z
+DTSTAMP:20250101T163822Z
 DTSTART;VALUE=DATE:20250122
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.65，当前市值: $
 	1\,339\,911\,002\,263。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
