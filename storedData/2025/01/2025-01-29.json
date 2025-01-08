@@ -57,17 +57,6 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$2.33",
-      "time": "time-not-supplied",
-      "symbol": "QCOM",
-      "name": "QUALCOMM Incorporated",
-      "marketCap": "$177,593,350,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.40",
-      "noOfEsts": "9"
-    },
-    {
       "lastYearRptDt": "1/30/2024",
       "lastYearEPS": "$2.09",
       "time": "time-pre-market",
@@ -86,7 +75,7 @@
       "name": "Boeing Company (The)",
       "marketCap": "$124,719,909,038",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($2.25)",
+      "epsForecast": "($2.26)",
       "noOfEsts": "8"
     },
     {
@@ -101,6 +90,17 @@
       "noOfEsts": "8"
     },
     {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.75",
+      "time": "time-after-hours",
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "marketCap": "$100,335,696,300",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.87",
+      "noOfEsts": "10"
+    },
+    {
       "lastYearRptDt": "2/12/2024",
       "lastYearEPS": "$1.74",
       "time": "time-after-hours",
@@ -110,17 +110,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.79",
       "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$0.72",
-      "time": "time-not-supplied",
-      "symbol": "GSK",
-      "name": "GSK plc",
-      "marketCap": "$70,384,351,208",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.54",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -163,8 +152,19 @@
       "name": "Norfolk Southern Corporation",
       "marketCap": "$53,609,750,307",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.97",
+      "epsForecast": "$2.98",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "1/30/2024",
+      "lastYearEPS": "$3.68",
+      "time": "time-pre-market",
+      "symbol": "MSCI",
+      "name": "MSCI Inc.",
+      "marketCap": "$46,761,016,278",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$3.95",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -378,7 +378,7 @@
     {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$0.50",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CHRW",
       "name": "C.H. Robinson Worldwide, Inc.",
       "marketCap": "$12,236,602,200",
@@ -433,7 +433,7 @@
     {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$2.94",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "AXS",
       "name": "Axis Capital Holdings Limited",
       "marketCap": "$7,349,127,241",
@@ -487,17 +487,6 @@
     },
     {
       "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$1.20",
-      "time": "time-not-supplied",
-      "symbol": "UGI",
-      "name": "UGI Corporation",
-      "marketCap": "$6,011,548,732",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.21",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$1.62",
       "time": "time-after-hours",
       "symbol": "LSTR",
@@ -505,28 +494,6 @@
       "marketCap": "$6,001,353,045",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.36",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$0.67",
-      "time": "time-not-supplied",
-      "symbol": "MTG",
-      "name": "MGIC Investment Corporation",
-      "marketCap": "$5,936,350,455",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.65",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$0.88",
-      "time": "time-not-supplied",
-      "symbol": "NXT",
-      "name": "Nextracker Inc.",
-      "marketCap": "$5,925,278,335",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.44",
       "noOfEsts": "7"
     },
     {
@@ -593,7 +560,7 @@
       "marketCap": "$4,819,326,785",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.04",
-      "noOfEsts": "7"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -625,7 +592,7 @@
       "name": "Flagstar Financial, Inc.",
       "marketCap": "$3,943,591,493",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.48)",
+      "epsForecast": "($0.50)",
       "noOfEsts": "8"
     },
     {
@@ -671,6 +638,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.84",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "1/30/2024",
+      "lastYearEPS": "$0.67",
+      "time": "time-after-hours",
+      "symbol": "FIBK",
+      "name": "First Interstate BancSystem, Inc.",
+      "marketCap": "$3,364,816,289",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.59",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -719,24 +697,13 @@
     {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$0.11",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "EXTR",
       "name": "Extreme Networks, Inc.",
       "marketCap": "$2,225,152,069",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.05",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$1.06",
-      "time": "time-not-supplied",
-      "symbol": "CNMD",
-      "name": "CONMED Corporation",
-      "marketCap": "$2,118,494,698",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.21",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -752,7 +719,7 @@
     {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "($0.17)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
       "marketCap": "$1,726,885,595",
@@ -856,7 +823,7 @@
       "name": "Heartland Express, Inc.",
       "marketCap": "$866,211,746",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.05)",
+      "epsForecast": "($0.04)",
       "noOfEsts": "2"
     },
     {
@@ -975,7 +942,7 @@
       "time": "time-not-supplied",
       "symbol": "LCNB",
       "name": "LCNB Corporation",
-      "marketCap": "$205,728,713",
+      "marketCap": "$207,845,264",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.30",
       "noOfEsts": "1"
@@ -986,7 +953,7 @@
       "time": "time-not-supplied",
       "symbol": "RDCM",
       "name": "Radcom Ltd.",
-      "marketCap": "$182,162,010",
+      "marketCap": "$185,682,789",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.09",
       "noOfEsts": "1"
@@ -1026,17 +993,6 @@
     },
     {
       "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$0.15",
-      "time": "time-not-supplied",
-      "symbol": "DLHC",
-      "name": "DLH Holdings Corp.",
-      "marketCap": "$116,242,661",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.07",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "($0.81)",
       "time": "time-not-supplied",
       "symbol": "UFI",
@@ -1044,6 +1000,17 @@
       "marketCap": "$111,977,954",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.50)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "1/31/2024",
+      "lastYearEPS": "$0.15",
+      "time": "time-not-supplied",
+      "symbol": "DLHC",
+      "name": "DLH Holdings Corp.",
+      "marketCap": "$110,344,209",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.07",
       "noOfEsts": "1"
     },
     {
@@ -1074,7 +1041,7 @@
       "time": "time-not-supplied",
       "symbol": "GTIM",
       "name": "Good Times Restaurants Inc.",
-      "marketCap": "$27,107,807",
+      "marketCap": "$27,214,530",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "8"
