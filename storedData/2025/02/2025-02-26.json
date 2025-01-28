@@ -92,7 +92,7 @@
     {
       "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "($0.44)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
       "marketCap": "$57,477,012,000",
@@ -110,6 +110,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.40",
       "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "2/27/2024",
+      "lastYearEPS": "$1.29",
+      "time": "time-after-hours",
+      "symbol": "A",
+      "name": "Agilent Technologies, Inc.",
+      "marketCap": "$43,250,552,534",
+      "fiscalQuarterEnding": "Jan/2025",
+      "epsForecast": "$1.27",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -163,7 +174,7 @@
       "name": "NRG Energy, Inc.",
       "marketCap": "$22,762,383,334",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.06",
+      "epsForecast": "$1.05",
       "noOfEsts": "1"
     },
     {
@@ -274,7 +285,7 @@
       "marketCap": "$14,453,325,758",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.50",
-      "noOfEsts": "6"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -378,24 +389,13 @@
     {
       "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "$1.70",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "KNTK",
       "name": "Kinetik Holdings Inc.",
       "marketCap": "$10,436,846,588",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.38",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$4.69",
-      "time": "time-not-supplied",
-      "symbol": "BLD",
-      "name": "TopBuild Corp.",
-      "marketCap": "$10,420,009,166",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$5.08",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -460,7 +460,7 @@
       "name": "APA Corporation",
       "marketCap": "$8,627,174,603",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.01",
+      "epsForecast": "$1",
       "noOfEsts": "9"
     },
     {
@@ -570,8 +570,8 @@
       "name": "MARA Holdings, Inc.",
       "marketCap": "$6,433,411,425",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.33)",
-      "noOfEsts": "3"
+      "epsForecast": "($0.30)",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/26/2024",
@@ -594,17 +594,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.86",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.19",
-      "time": "time-not-supplied",
-      "symbol": "LTH",
-      "name": "Life Time Group Holdings, Inc.",
-      "marketCap": "$5,929,765,820",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.19",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -707,19 +696,8 @@
     },
     {
       "lastYearRptDt": "2/28/2024",
-      "lastYearEPS": "$0.20",
-      "time": "time-not-supplied",
-      "symbol": "FTDR",
-      "name": "frontdoor, inc.",
-      "marketCap": "$4,431,932,380",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.11",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/28/2024",
       "lastYearEPS": "($0.60)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "AI",
       "name": "C3.ai, Inc.",
       "marketCap": "$4,234,633,116",
@@ -889,7 +867,7 @@
       "name": "LifeStance Health Group, Inc.",
       "marketCap": "$3,049,641,565",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.05)",
+      "epsForecast": "($0.04)",
       "noOfEsts": "4"
     },
     {
@@ -1011,7 +989,7 @@
       "marketCap": "$2,731,613,880",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.62",
-      "noOfEsts": "9"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/28/2024",
@@ -1384,7 +1362,7 @@
       "name": "Global Blue Group Holding AG",
       "marketCap": "$1,462,882,558",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.10",
+      "epsForecast": "$0.09",
       "noOfEsts": "1"
     },
     {
@@ -2473,8 +2451,8 @@
       "name": "Editas Medicine, Inc.",
       "marketCap": "$113,916,376",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.45)",
-      "noOfEsts": "7"
+      "epsForecast": "($0.39)",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/28/2024",
