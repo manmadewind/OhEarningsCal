@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:F_FwQtsS7TTJBKMKBi8xk
+UID:NcX1F1Adk3VkjIKqJsEMW
 SUMMARY:可口可乐 发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250211
 DESCRIPTION:财务季度：Dec/2024。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.51，当前市值: $291
 	\,207\,086\,528。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:508s7OXw6UCTXjFX-EPL_
+UID:doIrjiOLeKuPW5rH8m7Gs
 SUMMARY:思科系统 发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250212
 DESCRIPTION:财务季度：Jan/2025。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.74，当前市值:
 	 $249\,041\,873\,997。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qKb5en_x1pSmy9UzI3iGi
+UID:Y2lB6-Y0DmUVO1fPgOPB9
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250220
 DESCRIPTION:财务季度：Jan/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.65，当前市值: $780
 	\,925\,473\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FpEot_kzIiNjgJCYvojwh
+UID:I00cE3jcHCwyQEIZ_8P1v
 SUMMARY:家得宝 发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250225
 DESCRIPTION:财务季度：Jan/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.04，当前市值: $390\
 	,679\,581\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g23WcivX9igJp_MQDbh5Y
+UID:1buVtpu5k1GUrtq7CA897
 SUMMARY:赛富时 发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.95，当前市值: $2
 	94\,114\,810\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mbB9eXvPdtXSsPHSWu7QM
+UID:jJ4r1wJUlmwq_qZgQTdmo
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250320
-DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $109\
-	,706\,841\,209。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
+DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $108\
+	,834\,156\,345。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
 	https://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,12 +132,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fucT9sHq8BDkCsQegNCS-
+UID:ePSnB8AC_UzHbT7XF4mCf
 SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250327
 DESCRIPTION:财务季度：Feb/2025。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.53，当前市
-	值: $9\,687\,160\,376。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
+	值: $9\,678\,518\,842。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
 	在富途查看：https://www.futunn.com/hk/stock/WBA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -153,12 +153,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UUCNXr9DAWNZTGWrTv0Dv
+UID:rGERO4TiMLZTTcSo_ceFV
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20250313T043849Z
+DTSTAMP:20250313T164120Z
 DTSTART;VALUE=DATE:20250411
-DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.57，当前市值: $64
-	0\,699\,751\,525。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.57，当前市值: $63
+	7\,232\,579\,962。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
