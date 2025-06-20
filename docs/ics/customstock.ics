@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:_rTuleV8gN_22uax2HxAn
+UID:L5kuW0dUSrYQVuHXJmyuc
 SUMMARY:百度 发布财报
-DTSTAMP:20250620T044231Z
+DTSTAMP:20250620T164127Z
 DTSTART;VALUE=DATE:20250521
 DESCRIPTION:财务季度：Mar/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.34，当前市值: $29
 	\,385\,536\,190。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BF_tG2PmzNGufRUcbvgl6
+UID:wb_dj64fM2yhhZS10cNMc
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20250620T044231Z
+DTSTAMP:20250620T164127Z
 DTSTART;VALUE=DATE:20250521
 DESCRIPTION:财务季度：Mar/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $21\,14
 	2\,489\,852。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:o9gHcgFtbKbbDBkSnm8xI
+UID:joEm-ISaTs1uYIXNnb6cv
 SUMMARY:拼多多 发布财报
-DTSTAMP:20250620T044231Z
+DTSTAMP:20250620T164127Z
 DTSTART;VALUE=DATE:20250527
 DESCRIPTION:财务季度：Mar/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.25，当前市值: $1
 	46\,195\,192\,657。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6m2nuT_1RJz7PewcNrqRa
+UID:ErPVW2DX8iPVPVU4cIsPT
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250620T044231Z
+DTSTAMP:20250620T164127Z
 DTSTART;VALUE=DATE:20250529
 DESCRIPTION:财务季度：Mar/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $30\,149\
 	,861\,474。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YpS1PXK0sozEcVCRTfZUS
+UID:162aCLZZLT_7wLxhgsdw0
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250620T044231Z
+DTSTAMP:20250620T164127Z
 DTSTART;VALUE=DATE:20250603
 DESCRIPTION:财务季度：Mar/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.22)，当前市值: $7\
 	,928\,346\,811。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uhwsNhTz63hJKthd_yZDM
+UID:05nyS1QcYp1L0fhi49QU_
 SUMMARY:台积电 发布财报
-DTSTAMP:20250620T044231Z
+DTSTAMP:20250620T164127Z
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:财务季度：Jun/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.32，当前市值: $1\
-	,109\,402\,328\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,107\,327\,709\,348。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
