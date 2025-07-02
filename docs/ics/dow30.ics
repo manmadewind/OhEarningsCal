@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Jr0a7Aslkq5S3l5FCsyf9
+UID:DEkEy5DuU0W0p9hTtxdaj
 SUMMARY:耐克 发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250626
 DESCRIPTION:财务季度：May/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.12，当前市值: $92\,
 	308\,445\,057。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UtAFBbhLL5fhgnx9PQEyy
+UID:msre47RTktKfvqZH73KvJ
 SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250626
 DESCRIPTION:财务季度：May/2025。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.34，当前市
 	值: $9\,840\,717\,279。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:L6aZuPQaNXfq3WO4EiOso
+UID:0hdu2yn3KayJZE5slYoWx
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250715
 DESCRIPTION:财务季度：Jun/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.47，当前市值: $80
 	5\,687\,283\,016。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3XSt2QsdG5L180A6yZcZN
+UID:pilCSq2D9zlmF3Cem7eSS
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250716
 DESCRIPTION:财务季度：Jun/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.65，当前市值: $367\
 	,527\,693\,367。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ihuJW7SEZZk80pIh6gHF9
+UID:_oJpXayfet2glSowChcm8
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250716
 DESCRIPTION:财务季度：Jun/2025。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $9.36，当前市值: $
 	217\,166\,808\,342。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yEbYTN_w4upEyU4uBHT3k
+UID:AWkdw0Z6DePnzCGVgTUeh
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:财务季度：Jun/2025。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $3.52，当前市值: $6
 	0\,616\,213\,006。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JBR5f6dqD9HELTlLi_Ej1
+UID:CQTxgP1UnSn7qXoIJC0Yw
 SUMMARY:美国运通 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250718
 DESCRIPTION:财务季度：Jun/2025。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $3.85，当前市值: $
 	223\,473\,837\,753。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q8ZAsn2U723dl1jD2uJkO
+UID:1rlJLMot-qBQrKlurTv7O
 SUMMARY:威瑞森 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250721
 DESCRIPTION:财务季度：Jun/2025。\n代码：VZ，公司：威瑞森，行业: 电信。\n预计每股收益: $1.18，当前市值: $182\
 	,437\,350\,129。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查看：h
@@ -174,9 +174,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RoUnaMvhXYyavOQHW0heO
+UID:QwtVGMMjYhlUz7lD3u67t
 SUMMARY:维萨 发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250722
 DESCRIPTION:财务季度：Jun/2025。\n代码：V，公司：维萨，行业: 零售银行。\n预计每股收益: $2.84，当前市值: $678\
 	,322\,177\,496。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=V \n在富途查看：ht
@@ -195,9 +195,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:E2z2REikoHPJARyAAfZZl
+UID:wVY1EiufYXcoFI7OCCyj6
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250722
 DESCRIPTION:财务季度：Jun/2025。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.84，当前市值: $304
 	\,526\,871\,714。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -216,9 +216,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GvvBECGbif6S4QTmbAufq
+UID:xGSlLxP_kjN2OwGoYXOwh
 SUMMARY:IBM 盘后发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250723
 DESCRIPTION:财务季度：Jun/2025。\n代码：IBM，公司：IBM，行业: 电子计算机及技术。\n预计每股收益: $2.64，当前市值
 	: $273\,967\,522\,379。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IBM \
@@ -237,9 +237,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-tPsmkTit54uC42cbpQzt
+UID:4qIU72m8H7hOFzv3uQC-N
 SUMMARY:霍尼韦尔 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250724
 DESCRIPTION:财务季度：Jun/2025。\n代码：HON，公司：霍尼韦尔，行业: 综合企业。\n预计每股收益: $2.63，当前市值: $
 	149\,667\,995\,848。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富
@@ -258,9 +258,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lWe_4R18pcHQjzeDD-3Gj
+UID:pB0pDxvpY5MY8bOotknOs
 SUMMARY:3M 发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250725
 DESCRIPTION:财务季度：Jun/2025。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $2.01，当前市值: $81
 	\,932\,730\,551。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
@@ -279,9 +279,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ePr80-X0mSJNFbcSyKzpg
+UID:oLHFlytxQKwDwS7yNa15K
 SUMMARY:微软 发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250729
 DESCRIPTION:财务季度：Jun/2025。\n代码：MSFT，公司：微软，行业: 软件。\n预计每股收益: $3.35，当前市值: $3\,
 	697\,021\,643\,890。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n在
@@ -300,9 +300,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Jw0uVhp7uhjffyQUHLHAs
+UID:3hf0hYe0XsF1Qz2Cm_vwK
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250729
 DESCRIPTION:财务季度：Jun/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.42，当前市值: $373\
 	,532\,436\,857。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
@@ -321,9 +321,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zhkg_pt7cAYxb8Y_TF_Wu
+UID:moNl_RwbjwZi4FwIuj9Id
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250729
 DESCRIPTION:财务季度：Jun/2025。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $5.08，当前市值:
 	 $283\,000\,603\,379。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -342,9 +342,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cg4P3blxujWgX9b5l50XR
+UID:67K-zo4vBxMTCLnCVZFwF
 SUMMARY:默克药厂 盘前发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250729
 DESCRIPTION:财务季度：Jun/2025。\n代码：MRK，公司：默克药厂，行业: 制药。\n预计每股收益: $2.04，当前市值: $19
 	8\,773\,233\,987。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRK \n在富途查
@@ -363,9 +363,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xJoAbpuTlnEqk3sAQszkX
+UID:gIm3ha9bCA5C7a5mIeo-C
 SUMMARY:波音 发布财报
-DTSTAMP:20250701T164205Z
+DTSTAMP:20250702T044320Z
 DTSTART;VALUE=DATE:20250730
 DESCRIPTION:财务季度：Jun/2025。\n代码：BA，公司：波音，行业: 航空制造及国防。\n预计每股收益: ($0.92)，当前市值:
 	 $157\,986\,766\,967。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BA \n在
