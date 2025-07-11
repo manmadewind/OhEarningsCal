@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3dxq2pwNzPdLWAv-w2_tL
+UID:hyGgLrybPPWOcI3LA3pwG
 SUMMARY:台积电 发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:财务季度：Jun/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.37，当前市值: $1\
-	,202\,448\,974\,872。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,191\,660\,957\,844。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -27,12 +27,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XrlWbUppLFv6tjSswGt-N
-SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20250711T044605Z
-DTSTART;VALUE=DATE:20250722
+UID:5TJ_O2q6rwvnGTgF4oHEN
+SUMMARY:Alphabet (Class C) 盘后发布财报
+DTSTAMP:20250711T164223Z
+DTSTART;VALUE=DATE:20250723
 DESCRIPTION:财务季度：Jun/2025。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
-	: $2.13，当前市值: $2\,155\,904\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
+	: $2.13，当前市值: $2\,168\,524\,500\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
 	//?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -48,12 +48,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:B-XJi12ZBGPhRnCyhOe3g
-SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20250711T044605Z
-DTSTART;VALUE=DATE:20250722
+UID:l11zngIAnGLvrzmE7sSxe
+SUMMARY:Alphabet (Class A) 盘后发布财报
+DTSTAMP:20250711T164223Z
+DTSTART;VALUE=DATE:20250723
 DESCRIPTION:财务季度：Jun/2025。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
-	益: $2.13，当前市值: $2\,143\,283\,700\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	益: $2.13，当前市值: $2\,155\,418\,700\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/stock/GOOGL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -69,12 +69,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MHYAV5qBxCN95H-ltRGRY
+UID:NpVi8Ab6w_3kp10wx3-h8
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250723
 DESCRIPTION:财务季度：Jun/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.29，当前市值: $
-	953\,016\,523\,711。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	998\,077\,701\,103。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -90,12 +90,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xx71btoU4zN98CpslA4Iw
+UID:c-RKRhTTh0Z4LTHDCsEj9
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250730
 DESCRIPTION:财务季度：Jun/2025。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $15
-	6\,792\,257\,132。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+	7\,353\,667\,051。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OfJIRBB8ch-TquFUZLtwR
+UID:astaJEEXqt0TcJKrldkDe
 SUMMARY:APPLE 盘后发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250731
 DESCRIPTION:财务季度：Jun/2025。\n代码：AAPL，公司：APPLE，行业: 手机。\n预计每股收益: $1.42，当前市值: $
-	3\,153\,550\,301\,640。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
+	3\,172\,518\,800\,660。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
 	\n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,12 +132,33 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6BHnnDobx38bB5notpQs4
+UID:CvCjAUKx8P-n2rTqq1aJ2
+SUMMARY:Coinbase 盘后发布财报
+DTSTAMP:20250711T164223Z
+DTSTART;VALUE=DATE:20250731
+DESCRIPTION:财务季度：Jun/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.84，当前
+	市值: $99\,070\,042\,797。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
+	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT84H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT36H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tzAmL8ogli8wdcMDTkvb5
 SUMMARY:超微半导体 盘后发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250805
 DESCRIPTION:财务季度：Jun/2025。\n代码：AMD，公司：超微半导体，行业: 信息技术。\n预计每股收益: $0.35，当前市值: 
-	$224\,418\,554\,630。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
+	$233\,741\,628\,751。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
 	富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -153,12 +174,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RBT_eKE3YxwnW4UaKkZpa
+UID:Tna0OOmlbnDoJYy0nXIQD
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250805
 DESCRIPTION:财务季度：Jun/2025。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.35，当前市值: $29\,852\,818\,653。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.35，当前市值: $30\,055\,736\,653。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -174,12 +195,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TZbPhYrxZJhrWbQLYTLG4
+UID:jN-CuMEwyCNKWknoX7mPB
 SUMMARY:Jumia 发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250805
-DESCRIPTION:财务季度：Jun/2025。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $541
-	\,285\,687。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
+DESCRIPTION:财务季度：Jun/2025。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $544
+	\,959\,571。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/JMIA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -195,12 +216,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ipUB_w9QIS1nsu1-HyfkK
+UID:ELlsuc_lS2fWWGcQNg1lu
 SUMMARY:Shopify 发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250806
 DESCRIPTION:财务季度：Jun/2025。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.20，当前市
-	值: $148\,316\,581\,173。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
+	值: $149\,406\,381\,104。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
 	 \n在富途查看：https://www.futunn.com/hk/stock/SHOP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -216,34 +237,13 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u28-nhwRxEMy59xaQFtgb
+UID:Qyt2BJVHsDCD16ypEA4F3
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20250711T044605Z
+DTSTAMP:20250711T164223Z
 DTSTART;VALUE=DATE:20250807
 DESCRIPTION:财务季度：Jun/2025。\n代码：AMZN，公司：亚马逊，行业: 非必需消费品。\n预计每股收益: $1.32，当前市值:
-	 $2\,362\,563\,064\,654。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
+	 $2\,359\,590\,485\,980。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
 	N \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT84H
-END:VALARM
-BEGIN:VALARM
-ACTION:AUDIO
-DESCRIPTION:Reminder
-TRIGGER:-PT36H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9M67BwMAA-qGy5GYX9Ycf
-SUMMARY:Coinbase 发布财报
-DTSTAMP:20250711T044605Z
-DTSTART;VALUE=DATE:20250807
-DESCRIPTION:财务季度：Jun/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.86，当前
-	市值: $95\,221\,450\,791。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
-	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
