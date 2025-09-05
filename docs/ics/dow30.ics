@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Rgqj5KRDrU5C0pm1lrPux
+UID:tnJIn9mVxhIYeyaNPGIoR
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250806
 DESCRIPTION:财务季度：Jun/2025。\n代码：MCD，公司：麦当劳，行业: 快餐。\n预计每股收益: $3.15，当前市值: $219
 	\,986\,968\,789。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1eb3SRHuUW2DzEijX4xy0
+UID:ll6RMZeW6X6iye1lUdtms
 SUMMARY:华特迪士尼 发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250806
 DESCRIPTION:财务季度：Jun/2025。\n代码：DIS，公司：华特迪士尼，行业: 广播及娱乐。\n预计每股收益: $1.46，当前市值:
 	 $207\,046\,442\,638。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vHLf0TSvpDR8WJ9hIe-8G
+UID:PKQMa1nQ-qko1FRmuMLTS
 SUMMARY:思科系统 发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250813
 DESCRIPTION:财务季度：Jul/2025。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.80，当前市值:
 	 $278\,783\,871\,872。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tm-1Uo2D2MGVMrtrjxykX
+UID:Liw7GNV1spN2t3EYAXLGw
 SUMMARY:家得宝 发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250819
 DESCRIPTION:财务季度：Jul/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $4.71，当前市值: $405\
 	,134\,675\,492。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bToQ-nhGi7crAvhuvENgD
+UID:sKCVYC20MaPlG4lMEsM3r
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250821
 DESCRIPTION:财务季度：Jul/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.73，当前市值: $818
 	\,551\,491\,081。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HRatOe1wxa-HqZJAVPrwg
+UID:X1N0Ix9yoCqNrv6huI8IZ
 SUMMARY:赛富时 发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.12，当前市值: $2
 	45\,166\,200\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -132,12 +132,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Nwzb6dR9ZJK3msUGz07VQ
+UID:7r4Gw3yKvVN7z7QufPVhb
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20250905T043852Z
+DTSTAMP:20250905T163834Z
 DTSTART;VALUE=DATE:20250930
-DESCRIPTION:财务季度：Aug/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.27，当前市值: $110\
-	,383\,766\,992。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
+DESCRIPTION:财务季度：Aug/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.27，当前市值: $111\
+	,284\,678\,122。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
 	https://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
