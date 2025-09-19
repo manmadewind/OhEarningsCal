@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8feFpvypgJN7ih-I2nwYW
+UID:XgsDveB99kLYP9MmRFn8X
 SUMMARY:百度 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20250820
 DESCRIPTION:财务季度：Jun/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.32，当前市值: $29
 	\,825\,562\,937。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vn3rcJWsCpBKIjy_KqTJq
+UID:B2O0kzhHDprnXPxSlShV8
 SUMMARY:bilibili 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20250821
 DESCRIPTION:财务季度：Jun/2025。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: $0.08，当前
 	市值: $10\,546\,321\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BILI
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t8VT1uDrOXCSJ_Y2AfeDt
+UID:8pZJshC6sACaC-N5MF14N
 SUMMARY:拼多多 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20250825
 DESCRIPTION:财务季度：Jun/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.69，当前市值: $1
 	82\,012\,872\,893。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EDDsHorq5m_tnCbkz9RI3
+UID:vC741Sd70r-pQy-XkmGT9
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:财务季度：Jun/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,615\
 	,155\,419。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iqwS3aCk0hDVtBmPdrPWE
+UID:pT1d_9H8VZjP1NPIQCMAX
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20250829
 DESCRIPTION:财务季度：Jun/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.95，当前市值: 
 	$276\,120\,545\,510。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:U_125JoddCe5IZmssOq5U
+UID:jIWkgZV005ckMEv1J7Qk6
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:财务季度：Jun/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.30)，当前市值: $14
 	\,778\,618\,135。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -132,12 +132,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O-ickNmv62yVRouvOkBkD
+UID:QNAH0JQ1_KJB6eLviwlt8
 SUMMARY:台积电 发布财报
-DTSTAMP:20250919T043817Z
+DTSTAMP:20250919T163940Z
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.56，当前市值: $1\
-	,362\,972\,593\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,393\,313\,891\,519。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
