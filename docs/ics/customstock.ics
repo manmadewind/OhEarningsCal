@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:R02yKs9ObEWTsTNkqMiwE
+UID:aovqTE2SIXUpsugNOfMlN
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20251224T044555Z
+DTSTAMP:20251224T164155Z
 DTSTART;VALUE=DATE:20251125
 DESCRIPTION:财务季度：Sep/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.49，当前市值: 
 	$362\,579\,968\,643。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7Q7o1Mb8XIC6rOj1LVd_t
+UID:13qcI6O48LKiVcNLCSWRg
 SUMMARY:蔚来 发布财报
-DTSTAMP:20251224T044555Z
+DTSTAMP:20251224T164155Z
 DTSTART;VALUE=DATE:20251125
 DESCRIPTION:财务季度：Sep/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.24)，当前市值: $12
 	\,352\,948\,289。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pOHNHnr7gI_eA81-adWJO
+UID:oZxlwfV40XEinq0gDNiLW
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20251224T044555Z
+DTSTAMP:20251224T164155Z
 DTSTART;VALUE=DATE:20251126
 DESCRIPTION:财务季度：Sep/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0.04，当前市值: $19\
 	,387\,345\,111。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：h
@@ -69,12 +69,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l_9Q3Ius5G39z34NAlcjG
+UID:jpwW4KRPhnZtUNsmSM90M
 SUMMARY:台积电 发布财报
-DTSTAMP:20251224T044555Z
+DTSTAMP:20251224T164155Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.71，当前市值: $1\
-	,521\,110\,400\,925。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,540\,145\,027\,124。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
