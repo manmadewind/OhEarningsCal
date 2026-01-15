@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:JxqMTARKJOpXDC1g1OuZ0
+UID:8xay8EzRGAsk-IWHPmhWq
 SUMMARY:台积电 发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.82，当前市值: $1\
 	,717\,836\,115\,284。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z4_eM4OXWv5MY5ziJAk8H
+UID:WCdwRmDCp2HCYt8HBZEgi
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.32，当前市值: $
 	1\,487\,306\,331\,482。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fsD72mvOGOY_yDK-ltq2E
+UID:jdKufn3N-vqOSE_rYbKnB
 SUMMARY:APPLE 盘后发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260129
 DESCRIPTION:财务季度：Dec/2025。\n代码：AAPL，公司：APPLE，行业: 手机。\n预计每股收益: $2.65，当前市值: $
 	3\,836\,893\,582\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
@@ -69,12 +69,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kVQLIDlli4gXhQwe08DPi
+UID:9HKquSkwns2a9rxmRO-_w
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
-	: $2.59，当前市值: $4\,004\,554\,620\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
+	: $2.59，当前市值: $4\,054\,149\,990\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
 	//?symbol=GOOG \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -90,12 +90,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tBGJsxkL7EW3LWegpOjrK
+UID:pF34Q8QosqRxe3mBxDaPR
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
-	益: $2.59，当前市值: $4\,004\,554\,620\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
+	益: $2.59，当前市值: $4\,054\,149\,990\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
 	://?symbol=GOOGL \n在富途查看：https://www.futunn.com/hk/stock/GOOGL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OCto82b2K8gp9xEDcMRnT
+UID:AsKviwccmf3Nk3xFSfA-V
 SUMMARY:超微半导体 盘后发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：超微半导体，行业: 信息技术。\n预计每股收益: $1.10，当前市值: 
-	$338\,127\,947\,443。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
+	$359\,748\,339\,094。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
 	富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N830xJkNwTA_q2UMvH4DH
+UID:BoPctoHr7inNhIZ4gnuCC
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.21，当前市值: $11
 	4\,231\,029\,652。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Hns90v-xqZUy2mZXUEw2-
+UID:WVp6NtdpIFWYoJbhCEDWF
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMZN，公司：亚马逊，行业: 非必需消费品。\n预计每股收益: $1.97，当前市值:
 	 $2\,593\,446\,404\,269。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
@@ -174,9 +174,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7xv_LR3mul0Q0bplv7RRU
+UID:NNgj45FHhQvF3HF0FVdIA
 SUMMARY:Shopify 发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260210
 DESCRIPTION:财务季度：Dec/2025。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.40，当前市
 	值: $217\,951\,546\,093。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -195,12 +195,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2jOh1b9ocvI36bAhlID9h
+UID:2wsWB0Tgit9xJoTsEOUhg
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20260114T164642Z
+DTSTAMP:20260115T044827Z
 DTSTART;VALUE=DATE:20260212
-DESCRIPTION:财务季度：Dec/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $1.03，当前
-	市值: $65\,518\,053\,926。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
+DESCRIPTION:财务季度：Dec/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $1.02，当前
+	市值: $68\,136\,295\,360。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
 	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
