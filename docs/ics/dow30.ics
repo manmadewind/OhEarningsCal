@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Paff8onptBtsyBwVj06LV
+UID:n_XRCLbZmncBE6zdPEglm
 SUMMARY:华特迪士尼 发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260202
 DESCRIPTION:财务季度：Dec/2025。\n代码：DIS，公司：华特迪士尼，行业: 广播及娱乐。\n预计每股收益: $1.57，当前市值:
 	 $185\,230\,266\,614。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bSsGlIKDkO6HiQwHKLhce
+UID:eQLhWdhfoHZG2BzlnxtN-
 SUMMARY:默克药厂 发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：MRK，公司：默克药厂，行业: 制药。\n预计每股收益: $2.03，当前市值: $28
 	7\,517\,490\,570。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRK \n在富途查
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FDA7pvmWcWsII-RR1K-Wj
+UID:u7xybvZ9gZEfpy1oCEVJG
 SUMMARY:安进 发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMGN，公司：安进，行业: 卫生保健。\n预计每股收益: $4.76，当前市值: $1
 	82\,324\,170\,394。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMGN \n在富
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dBfFX-mXKlIxhCM8wu5ZX
+UID:uR6T5xeFmwEP9haND1SYI
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260210
 DESCRIPTION:财务季度：Dec/2025。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.56，当前市值: $335
 	\,396\,441\,645。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:40n6UX8GJ1HNoYj_PRovi
+UID:oJdJqH77SIhu8QesN7qn9
 SUMMARY:思科系统 发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:财务季度：Jan/2026。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.82，当前市值:
 	 $309\,449\,726\,174。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MR3AczszuJqLFPzmz4Jf6
+UID:1NanApFid6NX_us_BWyFq
 SUMMARY:麦当劳 盘前发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:财务季度：Dec/2025。\n代码：MCD，公司：麦当劳，行业: 快餐。\n预计每股收益: $3.02，当前市值: $224
 	\,328\,620\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vPcYetYpfHW59WkOSg3hg
+UID:eEoqd5eLGRBS8YN5ebt0w
 SUMMARY:沃尔玛 盘前发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260219
 DESCRIPTION:财务季度：Jan/2026。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.73，当前市值: $1\,
 	009\,182\,540\,982。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NkFSGc9OGdlF7FQu56t_C
+UID:auTkMnC6VCGoJ7tD3_oLJ
 SUMMARY:家得宝 盘前发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260224
 DESCRIPTION:财务季度：Jan/2026。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $2.52，当前市值: $380\
 	,534\,265\,141。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -174,9 +174,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:j0M0qRr3PBZ11VSp7UZ2b
+UID:xCpkZParmBFoIc7G_Jv0r
 SUMMARY:赛富时 发布财报
-DTSTAMP:20260302T050358Z
+DTSTAMP:20260302T165005Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Jan/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.14，当前市值: $1
 	79\,669\,750\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -195,12 +195,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WosUWoHCxOmRpRZH-Gd1n
-SUMMARY:耐克 发布财报
-DTSTAMP:20260302T050358Z
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:财务季度：Feb/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.32，当前市值: $94\,
-	670\,518\,558。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
+UID:6ixvsXj7nJsWqE3wPnW-M
+SUMMARY:耐克 盘后发布财报
+DTSTAMP:20260302T165005Z
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:财务季度：Feb/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.32，当前市值: $92\,
+	050\,239\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
