@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:aUdeS7BtBzR_oaeFgH_dY
+UID:veIJCDbymVmBNdi7x4-iy
 SUMMARY:百度 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Dec/2025。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.12，当前市值: $43
 	\,022\,927\,634。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DIdNfzIh3SY1gPjUeSbNM
+UID:rbWX2LoY4EvkaJutawU92
 SUMMARY:SHOPEE 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:财务季度：Dec/2025。\n代码：SE，公司：SHOPEE，行业: 通讯服务。\n预计每股收益: $0.63，当前市值: 
 	$51\,991\,190\,604。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在富途
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fclR-UoJRmBKIDreofudU
+UID:KYMaXKTgl6tRgY-Zjf9q9
 SUMMARY:京东 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:财务季度：Dec/2025。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: ($0.03)，当前市值: $3
 	7\,015\,410\,227。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CQPYg1ssUF9dcnwjn-Vs6
+UID:K7pLwbszlL8wyj6lV1swV
 SUMMARY:bilibili 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:财务季度：Dec/2025。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: $0.17，当前
 	市值: $10\,679\,555\,101。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BILI
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EI6LesJKc6S9Oj4Csbd6H
+UID:VUnMA01oIZkWKtjmtvvfu
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260312
 DESCRIPTION:财务季度：Dec/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0.05，当前市值: $18\
 	,868\,797\,125。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：h
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-QPzpL2leJId_O6IHJJFo
+UID:KB_eoSbj6yaRtJ0BWUoBE
 SUMMARY:阿里巴巴 盘前发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260319
 DESCRIPTION:财务季度：Dec/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.73，当前市值: 
-	$315\,701\,595\,523。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$315\,378\,296\,398。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,12 +132,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EX8ZlTRx155mlD6efjzAj
+UID:BhUxijNfEUUGXYVY69nQl
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260319
 DESCRIPTION:财务季度：Dec/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $3.21，当前市值: $1
-	47\,416\,088\,614。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
+	48\,168\,501\,239。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
 	查看：https://www.futunn.com/hk/stock/PDD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -153,12 +153,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HqL2yC4Tj6HkOPcGKBU8b
+UID:hFkMGE4Lp4t6GmROm29eS
 SUMMARY:小鹏汽车 盘前发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260320
-DESCRIPTION:财务季度：Dec/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $19\,09
-	0\,005\,444。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
+DESCRIPTION:财务季度：Dec/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $18\,20
+	6\,296\,879。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -174,12 +174,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BkD1v3OqvW67_n0Ksu21B
+UID:fCN0rQaxbM21Nr7h2uSDo
 SUMMARY:台积电 发布财报
-DTSTAMP:20260318T051037Z
+DTSTAMP:20260318T165237Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.27，当前市值: $1\
-	,759\,661\,775\,437。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,794\,441\,409\,275。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
