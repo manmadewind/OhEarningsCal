@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:iRr3QSY9_2zL3tzaGYo94
+UID:f5zJ8a6w_N-jhRCETHZMH
 SUMMARY:思科系统 发布财报
-DTSTAMP:20260610T060355Z
+DTSTAMP:20260610T174013Z
 DTSTART;VALUE=DATE:20260513
 DESCRIPTION:财务季度：Apr/2026。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.86，当前市值:
 	 $402\,375\,604\,189。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zEFymI3zTKOWGAXIgIzht
+UID:uvOBl-Xud3MIkDlv-vu0f
 SUMMARY:家得宝 发布财报
-DTSTAMP:20260610T060355Z
+DTSTAMP:20260610T174013Z
 DTSTART;VALUE=DATE:20260519
 DESCRIPTION:财务季度：Apr/2026。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.40，当前市值: $301\
 	,238\,604\,886。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aS0iV0CSa9v3693VGoMmN
+UID:eDMaNnpCcSdckr8dQTBQv
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20260610T060355Z
+DTSTAMP:20260610T174013Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Apr/2026。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.65，当前市值: $967
 	\,371\,319\,471。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TaC5JR1CSY_yDyj-AHqnC
+UID:_EaS2Td9zI_gnZ46RWejk
 SUMMARY:赛富时 发布财报
-DTSTAMP:20260610T060355Z
+DTSTAMP:20260610T174013Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.30，当前市值: $1
 	63\,841\,730\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -90,12 +90,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rxMmmRU2ZAKSRhA5yFJxg
+UID:5ll3Rct5BvDPzYHnu4ihz
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20260610T060355Z
+DTSTAMP:20260610T174013Z
 DTSTART;VALUE=DATE:20260630
-DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $64\,
-	018\,746\,437。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
+DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $66\,
+	121\,606\,023。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
