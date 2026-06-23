@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:MiSpWqABKYexv4aeyTpY4
+UID:VmNCWZaJ_g_15SE7KOOr3
 SUMMARY:赛富时 发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.30，当前市值: $1
 	63\,841\,730\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -27,12 +27,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oxE2I6gzygxdNhulynBm-
+UID:HntsJEmsZeMkmgvocNKAn
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260630
-DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $65\,
-	440\,397\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
+DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $66\,
+	936\,093\,892。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/NKE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HFC7Sp74ESTT-YoZjuTsg
+UID:ucn-CjxRVConsyv0xntIo
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $5.44，当前市值: $87
 	1\,430\,703\,362。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gVtSyHHNMEUhUUYGHPxNg
+UID:dgoJ03cmHijSMisHULenN
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $13.64，当前市值: 
 	$323\,493\,337\,572。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_GwEqTsXIUHluuqRrzRXm
+UID:mXc_Q4iAoVXWmtl_wJPwe
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.83，当前市值: $549\
 	,784\,284\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1GsWosXva9rB7JCj8Sq2c
+UID:cgOosx3B-AAX2igGxgvKg
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $4.84，当前市值:
-	 $362\,830\,933\,730。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
+	 $364\,129\,580\,228。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
 	在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2pY-GHwmycJuui4YdU30b
+UID:8Sa_zOQJmGMGDXn5aHTaX
 SUMMARY:3M 发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $2.24，当前市值: $83
 	\,763\,702\,117。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
@@ -153,13 +153,34 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qs_PQja-6_JuKow49BFWC
+UID:d662tI60PYRS_vPCr3_io
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20260622T180504Z
+DTSTAMP:20260623T055510Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $4.87，当前市值: $6
 	5\,454\,162\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
 	看：https://www.futunn.com/hk/stock/TRV-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT84H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:Reminder
+TRIGGER:-PT36H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:z_r2sJAu5GAuHu3LgH09n
+SUMMARY:IBM 盘后发布财报
+DTSTAMP:20260623T055510Z
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:财务季度：Jun/2026。\n代码：IBM，公司：IBM，行业: 电子计算机及技术。\n预计每股收益: $2.95，当前市值
+	: $234\,125\,423\,248。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IBM \
+	n在富途查看：https://www.futunn.com/hk/stock/IBM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
