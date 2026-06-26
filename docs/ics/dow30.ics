@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:_fg0nDO9HsV3Rq7McjmHZ
+UID:1pPDts9SgskIziPq9F7SO
 SUMMARY:赛富时 发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.30，当前市值: $1
 	63\,841\,730\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CY9Fg1FLGwhTTopVmwani
+UID:5ra14nHb1RoXUHUoPKt2x
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260630
 DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $61\,
 	930\,695\,720。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
@@ -48,12 +48,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BJLc7qst738NffUf5xqXy
+UID:U6Za4-eNT5WK9BWqbycWC
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $5.44，当前市值: $89
-	5\,331\,945\,211。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+	3\,483\,082\,332。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -69,12 +69,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c-4gtdOdyLXFQPcWUXafz
+UID:x_JpXPfLaf06zxAjJ8xNk
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $13.64，当前市值: 
-	$322\,867\,921\,839。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
+	$317\,696\,441\,749。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
 	途查看：https://www.futunn.com/hk/stock/GS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kuFo9Fg4YtFGO3JljnTtx
+UID:103Ff7vaRbYGFy-QuVKcQ
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.83，当前市值: $580\
 	,139\,290\,011。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Iyk6OE3ucD6iOTiq4XUkY
+UID:7jOk5EWwcjaUqNuQ_bBHO
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $4.84，当前市值:
-	 $371\,658\,097\,337。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
+	 $368\,524\,999\,143。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
 	在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Wj1zUv3M5sRzj_JtVRVet
+UID:n-CozbZUrunUJw4LnE3Je
 SUMMARY:3M 发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $2.25，当前市值: $86
 	\,533\,224\,273。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
@@ -153,9 +153,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FwJMliJIetcF2ExOQjU9_
+UID:iTtqPQzzZJoBB_B5MNdpQ
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055742Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $4.87，当前市值: $6
 	8\,203\,658\,833。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -174,9 +174,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7_cHvKJ_0qz3HC1o3pwy5
+UID:MZA4PVtYsS5USrlWTm8Sz
 SUMMARY:IBM 盘后发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055743Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：IBM，公司：IBM，行业: 电子计算机及技术。\n预计每股收益: $2.96，当前市值
 	: $247\,152\,233\,229。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IBM \
@@ -195,9 +195,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Juhi7amcFCs5Nq-5GFZfr
+UID:RvYY-E1VvwJiWlUlqKi7c
 SUMMARY:英特尔 发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055743Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：INTC，公司：英特尔，行业: 半导体。\n预计每股收益: $0.10，当前市值: $6
 	61\,672\,900\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在富
@@ -216,9 +216,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PB9YktdOdKpDrb8QX1hNM
+UID:9pWjJqDzLICFCV5TjK8L6
 SUMMARY:霍尼韦尔 发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055743Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：HON，公司：霍尼韦尔，行业: 综合企业。\n预计每股收益: $2.42，当前市值: $
 	144\,105\,392\,323。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富
@@ -237,12 +237,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:p3dv7t3mFtMIQg1s6D8fz
+UID:Qrr5rP2Ds_qn-wecVvOGf
 SUMMARY:美国运通 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055743Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $4.39，当前市值: $
-	230\,476\,225\,917。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
+	233\,737\,746\,314。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
 	途查看：https://www.futunn.com/hk/stock/AXP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -258,12 +258,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JVnJ_kWvHPXQoWHDfdXgY
+UID:pd9Kv2dr_5rqWddQMqScg
 SUMMARY:威瑞森 盘前发布财报
-DTSTAMP:20260625T171943Z
+DTSTAMP:20260626T055743Z
 DTSTART;VALUE=DATE:20260724
-DESCRIPTION:财务季度：Jun/2026。\n代码：VZ，公司：威瑞森，行业: 电信。\n预计每股收益: $1.27，当前市值: $195\
-	,123\,867\,864。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查看：h
+DESCRIPTION:财务季度：Jun/2026。\n代码：VZ，公司：威瑞森，行业: 电信。\n预计每股收益: $1.27，当前市值: $190\
+	,739\,531\,009。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/VZ-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
