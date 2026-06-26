@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jJ5_RbG2TK66LTxpR-fsS
+UID:ruiGMKnKt4zRAQXjO-4OM
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	23\,280\,367\,574。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sFlpfEGMgPb2L1vSajnq7
+UID:LKcAVhRDfa0BmC_L-vb7c
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0，当前市值: $16\,60
 	0\,690\,517。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：http
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l6YRJ0gHE7n9mkPgQKicp
+UID:jj_NaNMaSsAeyQXNUOcnY
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $15\,71
 	3\,833\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -69,12 +69,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8My3zV9-IGDBjrdCHmzDG
+UID:LUE6X9vJtGF1A7N01yw0k
 SUMMARY:台积电 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.77，当前市值: $2\
-	,286\,366\,956\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,256\,077\,768\,191。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mDaYePFEWbzGzDivGcDBH
+UID:uo89cmeh6UQ-bT2WH67CN
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
 	: $2.86，当前市值: $4\,183\,533\,640\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -111,9 +111,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0pXJzYb31n-PgYt3FqTUK
+UID:-cih7V-DbofPXXyIDWooj
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
 	益: $2.86，当前市值: $4\,183\,533\,640\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
@@ -132,9 +132,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vl82w6NyyrgU858yZZrSX
+UID:7JNUrh3TkuY1zwQc7I2bw
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260626T055739Z
+DTSTAMP:20260626T171152Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.27，当前市值: $
 	1\,410\,386\,985\,277。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
