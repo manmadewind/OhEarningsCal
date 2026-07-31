@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:cPJ2jBRuvmC6kt6CgkkmX
+UID:U1QUt-76uUTXRvW5d3kis
 SUMMARY:台积电 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.87，当前市值: $2\
 	,125\,118\,519\,365。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JnDRVQnA-wcfpHdyIu9Uj
+UID:-UMeybcn-2b_CF8ykft3D
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
 	: $2.88，当前市值: $4\,144\,762\,440\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XhOT4R94KINLWYRJ5Nc3P
+UID:_2b2QR83II7EErFxp-TfP
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
 	益: $2.88，当前市值: $4\,144\,762\,440\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
@@ -69,9 +69,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q_EosDOTSBCJtWroAj-Ao
+UID:yp1B3YPhriRP9Pyja-O2r
 SUMMARY:Tesla 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.32，当前市值: $
 	1\,404\,678\,284\,993。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -90,9 +90,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7qK3Ejyzp3gEVpQ3B8Py2
+UID:0fe1H222n21FU_M6GTbMr
 SUMMARY:Arm 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.18，当前市值: $23
 	9\,295\,385\,622。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -111,12 +111,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5H6JKL1A0Xh6eX9tgHI0T
-SUMMARY:APPLE 盘后发布财报
-DTSTAMP:20260731T072223Z
+UID:rBdlkwfhsB6J8ITTVVltU
+SUMMARY:APPLE 发布财报
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AAPL，公司：APPLE，行业: 手机。\n预计每股收益: $1.88，当前市值: $
-	4\,967\,116\,925\,640。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
+	4\,897\,205\,111\,080。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL 
 	\n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -132,12 +132,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kWsxGqFg3_dADA9UYqeww
-SUMMARY:亚马逊 盘后发布财报
-DTSTAMP:20260731T072223Z
+UID:s4pPALMqTF79KJqtNOcyM
+SUMMARY:亚马逊 发布财报
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMZN，公司：亚马逊，行业: 非必需消费品。\n预计每股收益: $1.83，当前市值:
-	 $2\,438\,098\,853\,669。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
+	 $2\,533\,299\,272\,178。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZ
 	N \n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -153,12 +153,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cVs0PF1Iqmz3pGuckLR0N
-SUMMARY:Coinbase 盘后发布财报
-DTSTAMP:20260731T072223Z
+UID:TCjboQzCUlXsoeiLDXFpe
+SUMMARY:Coinbase 发布财报
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260730
-DESCRIPTION:财务季度：Jun/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.15，当前
-	市值: $42\,169\,485\,240。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
+DESCRIPTION:财务季度：Jun/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.14，当前
+	市值: $43\,088\,790\,028。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
 	 \n在富途查看：https://www.futunn.com/hk/stock/COIN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -174,12 +174,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uPz4IxwzlhsXn_Lr4NqzV
+UID:HsHY_vVSFzFXvdC0wI8Y5
 SUMMARY:超微半导体 盘后发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMD，公司：超微半导体，行业: 信息技术。\n预计每股收益: $1.35，当前市值: 
-	$700\,440\,810\,489。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
+	$791\,477\,244\,164。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
 	富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -195,12 +195,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7A5TsI8L6tO1u9RubwZkq
+UID:W_m5vMcb1r_Kmm91Pzz3V
 SUMMARY:Shopify 盘前发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260805
 DESCRIPTION:财务季度：Jun/2026。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.28，当前市
-	值: $166\,931\,487\,716。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
+	值: $158\,344\,227\,037。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
 	 \n在富途查看：https://www.futunn.com/hk/stock/SHOP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -216,12 +216,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:n2n538oHPPEYiHLt9aEI5
+UID:5H_y7m4WOvbOQGeufTnCw
 SUMMARY:SHOPEE 盘前发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260811
 DESCRIPTION:财务季度：Jun/2026。\n代码：SE，公司：SHOPEE，行业: 通讯服务。\n预计每股收益: $0.78，当前市值: 
-	$66\,374\,947\,649。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在富途
+	$65\,070\,355\,617。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SE \n在富途
 	查看：https://www.futunn.com/hk/stock/SE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -237,12 +237,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YytnSBMUkM8vO2L1L1etP
+UID:5NtcXqYxmh824sLyNf3KF
 SUMMARY:Super Micro Computer 盘后发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260811
 DESCRIPTION:财务季度：Jun/2026。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.56，当前市值: $15\,456\,454\,987。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.56，当前市值: $16\,677\,334\,506。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -258,12 +258,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:S-vqdGalyXCVVw96MTS09
+UID:QvV5TkhAFByufck5HpTX3
 SUMMARY:Jumia 盘前发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260812
-DESCRIPTION:财务季度：Jun/2026。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $708
-	\,436\,889。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
+DESCRIPTION:财务季度：Jun/2026。\n代码：JMIA，公司：Jumia，行业: 电子商务。\n预计每股收益: ，当前市值: $739
+	\,400\,040。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JMIA \n在富途查看：htt
 	ps://www.futunn.com/hk/stock/JMIA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -279,12 +279,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CqwYmsu0brPb2pFqmyzy8
+UID:BYmIV9eNC4LKuP0ZyiPcC
 SUMMARY:京东 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260813
-DESCRIPTION:财务季度：Jun/2026。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.77，当前市值: $43\
-	,979\,427\,570。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
+DESCRIPTION:财务季度：Jun/2026。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.77，当前市值: $44\
+	,129\,667\,851。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/JD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -300,12 +300,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KF4_e1tiiyoyEdFsjAl7d
+UID:6bEGY5g23Il9iuV0HmibW
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260818
-DESCRIPTION:财务季度：Jun/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $12\,48
-	3\,130\,658。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
+DESCRIPTION:财务季度：Jun/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $12\,40
+	6\,664\,314。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -321,12 +321,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AU35Jsd7JAbNmsEJOdtjC
+UID:hCg3XK2niVyO0TDrdukdB
 SUMMARY:百度 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260819
-DESCRIPTION:财务季度：Jun/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.19，当前市值: $35
-	\,818\,397\,413。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
+DESCRIPTION:财务季度：Jun/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.19，当前市值: $36
+	\,570\,355\,789。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
 	看：https://www.futunn.com/hk/stock/BIDU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -342,12 +342,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4RcWEa22RcwAlnXq30sHK
+UID:Kptt2QTaZGvCDYbC_aazM
 SUMMARY:bilibili 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260820
 DESCRIPTION:财务季度：Jun/2026。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: $0.13，当前
-	市值: $7\,720\,036\,179。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BILI 
+	市值: $7\,790\,862\,199。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BILI 
 	\n在富途查看：https://www.futunn.com/hk/stock/BILI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -363,12 +363,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NoAi2dcNjcnE4Qbxyv_Nk
+UID:af_arozVUSX8to_xykj7z
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260824
 DESCRIPTION:财务季度：Jun/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.69，当前市值: $1
-	25\,714\,375\,524。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
+	24\,461\,786\,637。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
 	查看：https://www.futunn.com/hk/stock/PDD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -384,12 +384,12 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sB7SQ8vbbbNKtnf-nwVIS
+UID:baFG2v1cS3HCgDUZ-VUgy
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260731T072223Z
+DTSTAMP:20260731T180335Z
 DTSTART;VALUE=DATE:20260827
 DESCRIPTION:财务季度：Jun/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ($0.01)，当前市值: $1
-	4\,741\,925\,941。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看
+	4\,410\,766\,735。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看
 	：https://www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
