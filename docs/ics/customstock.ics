@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:HO0uZ4b931fkKtKsXf0XZ
+UID:1YBkC0eSgBQG5rIjJ2NDQ
 SUMMARY:bilibili 发布财报
-DTSTAMP:20260926T092853Z
+DTSTAMP:20260926T191919Z
 DTSTART;VALUE=DATE:20260827
 DESCRIPTION:财务季度：Jun/2026。\n代码：BILI，公司：bilibili，行业: 通讯服务。\n预计每股收益: $0.13，当前
 	市值: $6\,984\,695\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BILI 
@@ -27,9 +27,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GyMgmstSdvF8IHtlx9NBx
+UID:hPOtiKn4XlD_Pp-VEHpsh
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260926T092853Z
+DTSTAMP:20260926T191919Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jun/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.07)，当前市值: $10
 	\,173\,007\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -48,9 +48,9 @@ TRIGGER:-PT36H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Y8-f067yJnsIyI7GmxFAi
+UID:Q9oxFJ4ndDgkhOHVF_QiK
 SUMMARY:台积电 发布财报
-DTSTAMP:20260926T092853Z
+DTSTAMP:20260926T191919Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,339\,891\,580\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
