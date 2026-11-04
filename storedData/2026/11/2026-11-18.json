@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "TJX",
       "name": "TJX Companies, Inc. (The)",
-      "marketCap": "$155,096,351,000",
+      "marketCap": "$151,389,438,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.33",
       "noOfEsts": "7"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "LOW",
       "name": "Lowe's Companies, Inc.",
-      "marketCap": "$122,393,936,000",
+      "marketCap": "$119,717,708,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$2.86",
       "noOfEsts": "11"
@@ -40,21 +40,10 @@
       "time": "time-pre-market",
       "symbol": "TGT",
       "name": "Target Corporation",
-      "marketCap": "$71,951,516,000",
+      "marketCap": "$70,143,418,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$2.03",
       "noOfEsts": "12"
-    },
-    {
-      "lastYearRptDt": "11/19/2025",
-      "lastYearEPS": "$1.20",
-      "time": "time-not-supplied",
-      "symbol": "VIK",
-      "name": "Viking Holdings Ltd",
-      "marketCap": "$38,810,132,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.23",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "12/02/2025",
@@ -62,10 +51,21 @@
       "time": "time-after-hours",
       "symbol": "P",
       "name": "Everpure, Inc.",
-      "marketCap": "$37,914,595,000",
+      "marketCap": "$39,204,184,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.27",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "11/19/2025",
+      "lastYearEPS": "$1.20",
+      "time": "time-not-supplied",
+      "symbol": "VIK",
+      "name": "Viking Holdings Ltd",
+      "marketCap": "$38,266,274,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.23",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/19/2025",
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "WSM",
       "name": "Williams-Sonoma, Inc.",
-      "marketCap": "$30,557,806,600",
+      "marketCap": "$29,880,576,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$2.16",
       "noOfEsts": "10"
@@ -95,7 +95,7 @@
       "time": "time-after-hours",
       "symbol": "UGI",
       "name": "UGI Corporation",
-      "marketCap": "$8,307,390,000",
+      "marketCap": "$8,185,127,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.32)",
       "noOfEsts": "1"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "DY",
       "name": "Dycom Industries, Inc.",
-      "marketCap": "$6,667,079,700",
+      "marketCap": "$6,883,032,100",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$4.33",
       "noOfEsts": "4"
@@ -128,7 +128,7 @@
       "time": "time-after-hours",
       "symbol": "CPA",
       "name": "Copa Holdings, S.A.",
-      "marketCap": "$5,649,968,600",
+      "marketCap": "$5,600,602,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4",
       "noOfEsts": "6"
@@ -139,21 +139,10 @@
       "time": "time-after-hours",
       "symbol": "NJR",
       "name": "NewJersey Resources Corporation",
-      "marketCap": "$5,497,533,400",
+      "marketCap": "$5,442,740,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.12",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "11/19/2025",
-      "lastYearEPS": "$1.54",
-      "time": "time-not-supplied",
-      "symbol": "GFF",
-      "name": "Griffon Corporation",
-      "marketCap": "$4,716,538,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.59",
-      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -165,6 +154,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.01)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "11/19/2025",
+      "lastYearEPS": "$1.54",
+      "time": "time-not-supplied",
+      "symbol": "GFF",
+      "name": "Griffon Corporation",
+      "marketCap": "$4,629,120,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.59",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/19/2025",
@@ -189,17 +189,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/17/2025",
-      "lastYearEPS": "($0.01)",
-      "time": "time-after-hours",
-      "symbol": "HP",
-      "name": "Helmerich & Payne, Inc.",
-      "marketCap": "$3,881,628,670",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.26",
-      "noOfEsts": "7"
-    },
-    {
       "lastYearRptDt": "11/19/2025",
       "lastYearEPS": "$0.16",
       "time": "time-not-supplied",
@@ -211,12 +200,23 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "11/17/2025",
+      "lastYearEPS": "($0.01)",
+      "time": "time-after-hours",
+      "symbol": "HP",
+      "name": "Helmerich & Payne, Inc.",
+      "marketCap": "$3,785,687,300",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.26",
+      "noOfEsts": "7"
+    },
+    {
       "lastYearRptDt": "11/19/2025",
       "lastYearEPS": "$0.07",
       "time": "time-pre-market",
       "symbol": "BLSH",
       "name": "Bullish",
-      "marketCap": "$3,598,313,220",
+      "marketCap": "$3,665,362,430",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.06",
       "noOfEsts": "4"
@@ -227,7 +227,7 @@
       "time": "time-pre-market",
       "symbol": "ZIM",
       "name": "ZIM Integrated Shipping Services Ltd.",
-      "marketCap": "$3,415,208,450",
+      "marketCap": "$3,529,651,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.77",
       "noOfEsts": "1"
@@ -260,7 +260,7 @@
       "time": "time-after-hours",
       "symbol": "UTI",
       "name": "Universal Technical Institute Inc",
-      "marketCap": "$1,204,932,740",
+      "marketCap": "$1,195,566,460",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.33",
       "noOfEsts": "3"
@@ -271,7 +271,7 @@
       "time": "time-pre-market",
       "symbol": "BRBR",
       "name": "BellRing Brands, Inc.",
-      "marketCap": "$1,098,828,930",
+      "marketCap": "$1,095,340,540",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "5"
@@ -282,7 +282,7 @@
       "time": "time-not-supplied",
       "symbol": "FINV",
       "name": "FinVolution Group",
-      "marketCap": "$694,116,350",
+      "marketCap": "$684,672,580",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -414,7 +414,7 @@
       "time": "time-not-supplied",
       "symbol": "EARN",
       "name": "Ellington Credit Company",
-      "marketCap": "$125,072,120",
+      "marketCap": "$125,823,304",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.19",
       "noOfEsts": "1"
@@ -546,7 +546,7 @@
       "time": "time-after-hours",
       "symbol": "CCIF",
       "name": "Carlyle Credit Income Fund",
-      "marketCap": "$22,039,592",
+      "marketCap": "$22,272,814",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.07",
       "noOfEsts": "2"
@@ -557,7 +557,7 @@
       "time": "time-not-supplied",
       "symbol": "NYC",
       "name": "American Strategic Investment Co.",
-      "marketCap": "$18,839,428",
+      "marketCap": "$19,171,610",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
